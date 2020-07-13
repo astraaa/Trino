@@ -1,0 +1,683 @@
+D:\Diplom\bin\Debug\Diplom.exe.config
+D:\Diplom\bin\Debug\Diplom.exe
+D:\Diplom\bin\Debug\Diplom.pdb
+D:\Diplom\obj\Debug\Diplom.csprojAssemblyReference.cache
+D:\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+D:\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+D:\Diplom\obj\Debug\Diplom.csproj.CopyComplete
+D:\Diplom\obj\Debug\Diplom.exe
+D:\Diplom\obj\Debug\Diplom.pdb
+D:\Diplom\obj\Debug\Diplom.Auth_Form.resources
+D:\Diplom\obj\Debug\Diplom.Reg_Form.resources
+D:\Diplom\obj\Debug\Diplom.Main_Form.resources
+D:\Diplom\bin\Debug\Bunifu.Licensing.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Diplom\obj\Debug\Diplom.Task_Form.resources
+D:\Diplom\obj\Debug\Diplom.Profile_Form.resources
+D:\Diplom\obj\Debug\Diplom.Files_Form.resources
+D:\Diplom\obj\Debug\Diplom.Project_Form.resources
+D:\Diplom\obj\Debug\Diplom.Help_Provider.resources
+D:\Diplom\obj\Debug\Diplom.Preloader_Auth.resources
+D:\Diplom\obj\Debug\Diplom.Sucess_Message.resources
+C:\Users\admin\Desktop\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\admin\Desktop\Diplom\bin\Debug\Diplom.exe
+C:\Users\admin\Desktop\Diplom\bin\Debug\Diplom.pdb
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.Licensing.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Auth_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Help_Provider.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Files_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Main_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Profile_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Project_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Preloader_Auth.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Reg_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Task_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.csproj.CopyComplete
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.exe
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.pdb
+C:\Users\admin\Desktop\Diplom\bin\Debug\Manatee.Json.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Manatee.Trello.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Manatee.Json.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Manatee.Trello.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Recovery_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Properties.Resource1.resources
+C:\Users\admin\Desktop\Diplom\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Project_Creation.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Task_Creation.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Team_Creation.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Team_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Team_View.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Friends_Add_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Friends_Form.resources
+C:\Users\admin\Desktop\Diplom\obj\Debug\Diplom.Friends_Req_Form.resources
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\Diplom\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Diplom.exe.config
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Diplom.exe
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Diplom.pdb
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.Licensing.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\EntityFramework.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\EntityFramework.SqlServer.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Manatee.Json.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Manatee.Trello.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Options.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Identity.Client.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Buffers.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Collections.Immutable.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.ComponentModel.Annotations.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Memory.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Numerics.Vectors.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.ValueTuple.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\EntityFramework.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\EntityFramework.SqlServer.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Manatee.Json.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Manatee.Trello.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Options.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\Microsoft.Identity.Client.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Buffers.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Collections.Immutable.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Memory.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Numerics.Vectors.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\System.ValueTuple.xml
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.csprojAssemblyReference.cache
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Auth_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Friends_Req_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Friends_Add_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Friends_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Help_Provider.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Files_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Main_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Profile_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Project_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Preloader_Auth.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Reg_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Task_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Recovery_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Project_Creation.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Properties.Resource1.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Task_Creation.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Team_Creation.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Team_Form.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.Team_View.resources
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.csproj.CopyComplete
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.exe
+D:\!somethings\trino\Trino (1)\Diplom\obj\Debug\Diplom.pdb
+C:\Users\admin\Desktop\Trino\bin\Debug\Diplom.exe.config
+C:\Users\admin\Desktop\Trino\bin\Debug\Diplom.exe
+C:\Users\admin\Desktop\Trino\bin\Debug\Diplom.pdb
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.Licensing.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Manatee.Json.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Manatee.Trello.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Manatee.Json.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Manatee.Trello.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\Trino\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Auth_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Friends_Req_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Friends_Add_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Friends_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Help_Provider.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Files_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Main_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Profile_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Project_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Preloader_Auth.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Reg_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Task_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Recovery_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Project_Creation.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Properties.Resource1.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Task_Creation.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Team_Creation.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Team_Form.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Team_View.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.csproj.CopyComplete
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.exe
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.pdb
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Project_View.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Team_Task_Creation.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Team_Users_Add.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Commentary_Add.resources
+C:\Users\admin\Desktop\Trino\bin\Debug\JetBrains.Annotations.dll
+C:\Users\admin\Desktop\Trino\bin\Debug\JetBrains.Annotations.xml
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Project_Tasks.resources
+C:\Users\admin\Desktop\Trino\obj\Debug\Diplom.Team_Task_More.resources
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Diplom.exe.config
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Diplom.exe
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Diplom.pdb
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.Licensing.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\JetBrains.Annotations.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Manatee.Json.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Manatee.Trello.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\JetBrains.Annotations.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Manatee.Json.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Manatee.Trello.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Auth_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Commentary_Add.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Friends_Req_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Friends_Add_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Friends_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Help_Provider.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Files_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Main_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Profile_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Project_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Preloader_Auth.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Reg_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Task_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Recovery_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Project_Creation.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Project_View.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Project_Tasks.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Properties.Resource1.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Task_Creation.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Team_Creation.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Team_Form.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Team_View.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Team_Task_Creation.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Team_Users_Add.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.Team_Task_More.resources
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.csproj.CopyComplete
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.exe
+C:\Users\admin\Desktop\Diplom\Trino\obj\Debug\Diplom.pdb

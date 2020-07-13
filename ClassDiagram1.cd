@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Diplom.Auth_Form" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIRAACAAgBAhAACAACQCAgACAoAAAAAQBwBUAAA=</HashCode>
+      <FileName>Auth_Reg\Auth_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Recovery_Form" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIQAgCQAgBAgAACAAAQCAQAAAsAQAAAAAQBUAAA=</HashCode>
+      <FileName>Auth_Reg\Recovery_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Reg_Form" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAACBAghAhAACAAAQCAIQEEuAAACAAAwhUgAA=</HashCode>
+      <FileName>Auth_Reg\Reg_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Project_Form" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIIhQQAiAAgBBAACCAAAQCAIAAAIAAAAwKQwBUQAA=</HashCode>
+      <FileName>Navbar\Project_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Task_Form" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgIhQQAiAAgBBAACCAAAQCAIAAAIEAAAwKQwBUQAA=</HashCode>
+      <FileName>Navbar\Task_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Team_Form" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAEQAACQAgBBAAACAAAQCAIAAAMAAAAwKAQAUAAA=</HashCode>
+      <FileName>Navbar\Team_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Friends_Form" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAQAACQAgBBAAACAAAQCAIAAAOAAAAwLAQAUAAA=</HashCode>
+      <FileName>Navbar\Friends_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Profile_Form" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEQAAiQBgBAIAACAQAQGBSgAAJAAAEAAIAAYAAA=</HashCode>
+      <FileName>Navbar\Profile_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Friends_Add_Form" Collapsed="true">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACQAgBBgAACAAAQSAoAAAOAYAAgQAAwQCAA=</HashCode>
+      <FileName>Navbar\Friends_Add_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Friends_Req_Form" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACQAgBAAAACAAAQCBIAAAOAeAAgAAQQUAAA=</HashCode>
+      <FileName>Navbar\Friends_Req_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Task_Creation" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABhAAACQAgFAAIACAAAQCAIAAAOAYAQgIAQxwgAA=</HashCode>
+      <FileName>Navbar\Task_Creation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Project_Creation" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACSAgBAAIACAAAQCAoAAAMAAAQgCAQxQgAA=</HashCode>
+      <FileName>Navbar\Project_Creation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Team_Creation" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAgBAAAAKAQAQCAIAAAOAQAQgAAQwQAAA=</HashCode>
+      <FileName>Navbar\Team_Creation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Team_Task_Creation" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhAAACQAABAAIACAAAQCAKAAAMAAAQgAAAhAgAA=</HashCode>
+      <FileName>Navbar\Team_Task_Creation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Team_Task_More" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAABCAAAQCgIAQgMABAQgAAAAAAAA=</HashCode>
+      <FileName>Navbar\Team_Task_More.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Team_Users_Add" Collapsed="true">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBAACAAABAgAACAAAQCAoAABIAAAAgQAAwAAAA=</HashCode>
+      <FileName>Navbar\Team_Users_Add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Team_View" Collapsed="true">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAACAAgBBAABCAAAQCAIAAAOAAAAgAAQAUAAg=</HashCode>
+      <FileName>Navbar\Team_View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Commentary_Add" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAQACAAAAEMAAAQAAAAAAAAA=</HashCode>
+      <FileName>Navbar\Commentary_Add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Project_View" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAgBAAEAiAAAQCAIAAAIAAAAgAAQAUAAA=</HashCode>
+      <FileName>Navbar\Project_View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Main_Form" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3xAgNhQQAiCAgZgBACCCQAQCA4AAAIAAQPioAYh8YQE=</HashCode>
+      <FileName>Main_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Help_Provider" Collapsed="true">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAUAAhAICCgAgAAAAACAQAUCAIAAIICEABogIAhQAAA=</HashCode>
+      <FileName>Help_Provider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

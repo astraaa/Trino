@@ -1,0 +1,814 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B87F9C73-B680-4AD6-ACAE-9EE7F691F08F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Diplom</RootNamespace>
+    <AssemblyName>Diplom</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGauge, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuProgressBar, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShadowPanel, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextBox, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToggleSwitch, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuToggleSwitch.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToolTip, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.Deprecated, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.2.1.1\lib\Bunifu.UI.WinForms.Deprecated.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="JetBrains.Annotations, Version=2020.1.0.0, Culture=neutral, PublicKeyToken=1010a0d8d6380325, processorArchitecture=MSIL">
+      <HintPath>packages\JetBrains.Annotations.2020.1.0\lib\net20\JetBrains.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="Manatee.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=c267f67a39449c62, processorArchitecture=MSIL">
+      <HintPath>packages\Manatee.Json.12.3.0\lib\netstandard2.0\Manatee.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Manatee.Trello, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f502fcc17fc907d6, processorArchitecture=MSIL">
+      <HintPath>packages\Manatee.Trello.4.3.0\lib\netstandard2.0\Manatee.Trello.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.1.1.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.HashCode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.HashCode.1.1.0\lib\net461\Microsoft.Bcl.HashCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.SqlClient, Version=1.0.19269.1, Culture=neutral, PublicKeyToken=23ec7fc2d6eaa4a5, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Data.SqlClient.1.0.19269.1\lib\net46\Microsoft.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.EntityFrameworkCore.3.1.3\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.Abstractions, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.EntityFrameworkCore.Abstractions.3.1.3\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.Relational, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.EntityFrameworkCore.Relational.3.1.3\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.SqlServer, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.EntityFrameworkCore.SqlServer.3.1.3\lib\netstandard2.0\Microsoft.EntityFrameworkCore.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Abstractions, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Caching.Abstractions.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Memory, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Caching.Memory.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.Abstractions.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Binder, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.Binder.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.DependencyInjection.3.1.3\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.DependencyInjection.Abstractions.3.1.3\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Logging.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Logging.Abstractions.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Options.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Primitives.3.1.3\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Identity.Client, Version=3.0.8.0, Culture=neutral, PublicKeyToken=0a613f4dd989e8ae, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Identity.Client.3.0.8\lib\net45\Microsoft.Identity.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Collections.Immutable.1.7.0\lib\netstandard2.0\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.ComponentModel.Annotations.4.7.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Common, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.Common.4.3.0\lib\net451\System.Data.Common.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.DiagnosticSource.4.7.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Net.Http, Version=4.1.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.7.1\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Thread.4.3.0\lib\net46\System.Threading.Thread.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Auth_Reg\Auth_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Auth_Reg\Auth_Form.Designer.cs">
+      <DependentUpon>Auth_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\ProjectTask.cs" />
+    <Compile Include="Navbar\Commentary.cs" />
+    <Compile Include="Navbar\Commentary_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Commentary_Add.Designer.cs">
+      <DependentUpon>Commentary_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\ApplicationContext.cs" />
+    <Compile Include="Database\Cache.cs" />
+    <Compile Include="Database\Commentary.cs" />
+    <Compile Include="Database\Friend.cs" />
+    <Compile Include="Database\FriendDetail.cs" />
+    <Compile Include="Database\SoloProject.cs" />
+    <Compile Include="Database\SoloTask.cs" />
+    <Compile Include="Database\Task.cs" />
+    <Compile Include="Database\Team.cs" />
+    <Compile Include="Database\User.cs" />
+    <Compile Include="Database\UserInTeam.cs" />
+    <Compile Include="Navbar\Friends_Req_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Friends_Req_Form.Designer.cs">
+      <DependentUpon>Friends_Req_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Friends_Add_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Friends_Add_Form.Designer.cs">
+      <DependentUpon>Friends_Add_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Friends_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Friends_Form.Designer.cs">
+      <DependentUpon>Friends_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help_Provider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help_Provider.Designer.cs">
+      <DependentUpon>Help_Provider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Files_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Files_Form.Designer.cs">
+      <DependentUpon>Files_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Form.Designer.cs">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Profile_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Profile_Form.Designer.cs">
+      <DependentUpon>Profile_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Preloaders\Preloader_Auth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Preloaders\Preloader_Auth.Designer.cs">
+      <DependentUpon>Preloader_Auth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Navbar\Project_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Project_Form.Designer.cs">
+      <DependentUpon>Project_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Project_Creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Project_Creation.Designer.cs">
+      <DependentUpon>Project_Creation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Project_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Project_View.Designer.cs">
+      <DependentUpon>Project_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Project_Tasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Project_Tasks.Designer.cs">
+      <DependentUpon>Project_Tasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Auth_Reg\Reg_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Auth_Reg\Reg_Form.Designer.cs">
+      <DependentUpon>Reg_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Task_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Task_Form.Designer.cs">
+      <DependentUpon>Task_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Auth_Reg\Recovery_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Auth_Reg\Recovery_Form.Designer.cs">
+      <DependentUpon>Recovery_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Task_Creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Task_Creation.Designer.cs">
+      <DependentUpon>Task_Creation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Team_Creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Team_Creation.Designer.cs">
+      <DependentUpon>Team_Creation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Team_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Team_Form.Designer.cs">
+      <DependentUpon>Team_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Team_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Team_View.Designer.cs">
+      <DependentUpon>Team_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Team_Task_Creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Team_Task_Creation.Designer.cs">
+      <DependentUpon>Team_Task_Creation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Team_Users_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Team_Users_Add.Designer.cs">
+      <DependentUpon>Team_Users_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navbar\Team_Task_More.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navbar\Team_Task_More.Designer.cs">
+      <DependentUpon>Team_Task_More.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Auth_Reg\Auth_Form.resx">
+      <DependentUpon>Auth_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Commentary_Add.resx">
+      <DependentUpon>Commentary_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Friends_Req_Form.resx">
+      <DependentUpon>Friends_Req_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Friends_Add_Form.resx">
+      <DependentUpon>Friends_Add_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Friends_Form.resx">
+      <DependentUpon>Friends_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help_Provider.resx">
+      <DependentUpon>Help_Provider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Files_Form.resx">
+      <DependentUpon>Files_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Form.resx">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Profile_Form.resx">
+      <DependentUpon>Profile_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Project_Form.resx">
+      <DependentUpon>Project_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Preloaders\Preloader_Auth.resx">
+      <DependentUpon>Preloader_Auth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Auth_Reg\Reg_Form.resx">
+      <DependentUpon>Reg_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Task_Form.resx">
+      <DependentUpon>Task_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Auth_Reg\Recovery_Form.resx">
+      <DependentUpon>Recovery_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Project_Creation.resx">
+      <DependentUpon>Project_Creation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Project_View.resx">
+      <DependentUpon>Project_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Project_Tasks.resx">
+      <DependentUpon>Project_Tasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Task_Creation.resx">
+      <DependentUpon>Task_Creation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Team_Creation.resx">
+      <DependentUpon>Team_Creation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Team_Form.resx">
+      <DependentUpon>Team_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Team_View.resx">
+      <DependentUpon>Team_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Team_Task_Creation.resx">
+      <DependentUpon>Team_Task_Creation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Team_Users_Add.resx">
+      <DependentUpon>Team_Users_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navbar\Team_Task_More.resx">
+      <DependentUpon>Team_Task_More.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-auth-big.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-auth-big3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulleted_list_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\task_planning_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\client_management_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_44px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_44px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_left_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_right_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_32pxWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_32pxBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_left_32pxActive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_right_32pxActive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_left_24pxActive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_right_24pxActive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notification_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descending_sorting_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descending_sorting_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload_18px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\messaging_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\commercial_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bell_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_card_back_side_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_card_back_side_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Default.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Default_Bok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue_Bok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Bok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Default_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Purple_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test-bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12345.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_prioritet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-auth-big2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-auth-big22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_24px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_math_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_math_32px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sort_amount_up_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filled_circle_32pxGreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filled_circle_32pxYELLOW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filled_circle_32pxRED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_24pxGREY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generic_sorting_2_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generic_sorting_2_24pxGREY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generic_sorting_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generic_sorting_24pxGREY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-slide-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play_round_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\autograph_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\create_new_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\high_priority_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrows_long_right_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon-Composer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_sign_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_40px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('packages\Microsoft.Data.SqlClient.SNI.1.0.19235.1\build\net46\Microsoft.Data.SqlClient.SNI.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Data.SqlClient.SNI.1.0.19235.1\build\net46\Microsoft.Data.SqlClient.SNI.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+  <Import Project="packages\Microsoft.Data.SqlClient.SNI.1.0.19235.1\build\net46\Microsoft.Data.SqlClient.SNI.targets" Condition="Exists('packages\Microsoft.Data.SqlClient.SNI.1.0.19235.1\build\net46\Microsoft.Data.SqlClient.SNI.targets')" />
+</Project>
